@@ -44,3 +44,7 @@ Axios: For making HTTP requests to the OMDb API.
 Tailwind CSS: For styling the app.
 
 [OMDb API](https://www.omdbapi.com): The source of movie data.
+
+![Screenshot (225)](https://github.com/user-attachments/assets/31463212-c44e-4cf8-82fc-8a8aad267c2e)
+![Screenshot (224)](https://github.com/user-attachments/assets/f909fe34-5cd9-490c-ba36-799d5dbf7f5c)
+
