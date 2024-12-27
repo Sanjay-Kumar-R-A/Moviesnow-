@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { fetchMovies } from '../services/apiService';
+import { fetchMovies } from '../Services/apiService';
 import SearchBar from '../components/SeachBar';
 import MovieCard from '../components/MovieCard';
 import Pagination from '../components/Pagination';
